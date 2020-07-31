@@ -5,11 +5,15 @@ A collection of solutions to [Kattis](https://open.kattis.com/), a website that 
 | 263 Problems | Languages |
 | - | - |
 | [2048](https://open.kattis.com/problems/2048) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/2048.py) |
-| [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/3DPrintedStatues.py) |
+| [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/3DPrintedStatues.py) 
+| [A List Game](https://open.kattis.com/problems/listgame) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/AListGame.py) |
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/ANewAlphabet.py) |
+| [A Prize No One Can Win](https://open.kattis.com/problems/aprizenoonecanwin) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/APrizeNoOneCanWin.py) |
 | [ABC](https://open.kattis.com/problems/abc) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/ABC.py) |
 | [Add 'Em Up!](https://open.kattis.com/problems/addemup) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/AddEmUp.py) |
+| [Adding Words!](https://open.kattis.com/problems/addingwords) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/AddingWords.java) |
 | [Akcija](https://open.kattis.com/problems/akcija) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Akcija.py) |
+| [Anagram Counting](https://open.kattis.com/problems/anagramcounting) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/AnagramCounting.py) |
 | [ASCII Addition](https://open.kattis.com/problems/asciiaddition) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/ASCIIAddition.py) |
 | [Euler's Number](https://open.kattis.com/problems/eulersnumber) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/EulerNumber.py) |
 | [Frosh Week](https://open.kattis.com/problems/froshweek2) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/FroshWeek.java) |
