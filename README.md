@@ -2,7 +2,7 @@
 A collection of solutions to [Kattis](https://open.kattis.com/), a website that offers fun programming problems
 ## Kattis Solutions
 
-| 263 Problems | Languages |
+| 34 Problems | Languages |
 | - | - |
 | [2048](https://open.kattis.com/problems/2048) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/2048.py) |
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/3DPrintedStatues.py) 
