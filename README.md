@@ -5,7 +5,7 @@ A collection of solutions to [Kattis](https://open.kattis.com/), a website that 
 | 40 Problems | Languages |
 | - | - |
 | [2048](https://open.kattis.com/problems/2048) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/2048/2048.py) |
-| [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/3D%Printed%Statues/3d_printed_statues.py) 
+| [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/3D%Printed%Statues/3d_printed_statues.py)
 | [A List Game](https://open.kattis.com/problems/listgame) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/A%List%Game/a_list_game.py) |
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/A%New%Alphabet/a_new_alphabet.py) |
 | [A Prize No One Can Win](https://open.kattis.com/problems/aprizenoonecanwin) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/A%Prize%No%One%Can%Win/a_prize_no_one_can_win.py) |
@@ -42,5 +42,6 @@ A collection of solutions to [Kattis](https://open.kattis.com/), a website that 
 | [Sjecista](https://open.kattis.com/problems/sjecista) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Sjecista/Sjecista.java) |
 | [Stirling's Approximation](https://open.kattis.com/problems/stirlingsapproximation) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Stirling's%Approximation/stirlings_approximation.py) |
 | [Wizard of Odds](https://open.kattis.com/problems/wizardofodds) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Wizard%Of%Odds/wizard_of_odds.py) |
+| [Words for Numbers](https://open.kattis.com/problems/wordsfornumbers) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Wizard%Of%Odds/words_for_numbers.py) |
 | [Yoda](https://open.kattis.com/problems/yoda) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Yoda/yoda.py) |
 | [Zebras and Ocelots](https://open.kattis.com/problems/zebrasocelots) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Zebra%And%Ocelots/zebra_and_ocelots.py) |
