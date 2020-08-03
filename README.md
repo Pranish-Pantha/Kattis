@@ -23,25 +23,25 @@ A collection of solutions to [Kattis](https://open.kattis.com/), a website that 
 | [Calculating Dart Scores](https://open.kattis.com/problems/calculatingdartscores) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Calculating%20Dart%20Scores/calculatingDartScores.java) |
 | [Cantor](https://open.kattis.com/problems/cantor) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Cantor/cantor.py) |
 | [Chess](https://open.kattis.com/problems/chess) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Chess/chess.py) |
-| [Divide By 100](https://open.kattis.com/problems/divideby100) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Divide%By%100/divide_by_100.py) |
-| [Eight Queens](https://open.kattis.com/problems/8queens) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Eight%Queens/eight_queens.py) |
-| [Engineering English](https://open.kattis.com/problems/engineeringenglish) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Engineering%English/engineering_english.py) |
+| [Divide By 100](https://open.kattis.com/problems/divideby100) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Divide%20By%20100/divide_by_100.py) |
+| [Eight Queens](https://open.kattis.com/problems/8queens) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Eight%20Queens/eight_queens.py) |
+| [Engineering English](https://open.kattis.com/problems/engineeringenglish) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Engineering%20English/engineering_english.py) |
 | [Euler's Number](https://open.kattis.com/problems/eulersnumber) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Euler's%20Number/eulers_number.py) |
-| [Frosh Week](https://open.kattis.com/problems/froshweek2) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Frosh%Week/froshWeek.java) |
-| [Hidden Password](https://open.kattis.com/problems/hidden) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Hidden%Password/hidden_password.py) |
-| [How Many Digits](https://open.kattis.com/problems/howmanydigits) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/How%Many%Digits/how_many_digits.py) |
-| [Industrial Spy](https://open.kattis.com/problems/industrialspy) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Industrial%Spy/industrial_spy.py) |
-| [Inverse Factorial](https://open.kattis.com/problems/inversefactorial) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Inverse%Factorial/inverse_factorial.py) |
-| [Maximum Rent](https://open.kattis.com/problems/maximumrent) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Maximum%Rent/maximumRent.java) |
+| [Frosh Week](https://open.kattis.com/problems/froshweek2) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Frosh%20Week/froshWeek.java) |
+| [Hidden Password](https://open.kattis.com/problems/hidden) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Hidden%20Password/hidden_password.py) |
+| [How Many Digits](https://open.kattis.com/problems/howmanydigits) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/How%20Many%20Digits/how_many_digits.py) |
+| [Industrial Spy](https://open.kattis.com/problems/industrialspy) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Industrial%20Spy/industrial_spy.py) |
+| [Inverse Factorial](https://open.kattis.com/problems/inversefactorial) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Inverse%20Factorial/inverse_factorial.py) |
+| [Maximum Rent](https://open.kattis.com/problems/maximumrent) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Maximum%20Rent/maximumRent.java) |
 | [Metaprogramming](https://open.kattis.com/problems/metaprogramming) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Metaprogramming/metaprogramming.py) |
 | [Natrij](https://open.kattis.com/problems/natrij) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Natrij/natrij.py) |
-| [Numbers On A Tree](https://open.kattis.com/problems/numbertree) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Numbers%On%A%Tree/numbers_on_a_tree.py) |
+| [Numbers On A Tree](https://open.kattis.com/problems/numbertree) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Numbers%20On%20A%20Tree/numbers_on_a_tree.py) |
 | [Proofs](https://open.kattis.com/problems/proofs) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Proofs/proofs.py) |
-| [Quite A Problem](https://open.kattis.com/problems/quiteaproblem) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Quite%A%Problem/quite_a_problem.py) |
+| [Quite A Problem](https://open.kattis.com/problems/quiteaproblem) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Quite%20A%20Problem/quite_a_problem.py) |
 | [Riječi](https://open.kattis.com/problems/rijeci) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Rijeci/rijeci.py) |
 | [Sjecista](https://open.kattis.com/problems/sjecista) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Sjecista/Sjecista.java) |
-| [Stirling's Approximation](https://open.kattis.com/problems/stirlingsapproximation) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Stirling's%Approximation/stirlings_approximation.py) |
-| [Wizard of Odds](https://open.kattis.com/problems/wizardofodds) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Wizard%Of%Odds/wizard_of_odds.py) |
-| [Words for Numbers](https://open.kattis.com/problems/wordsfornumbers) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Wizard%Of%Odds/words_for_numbers.py) |
+| [Stirling's Approximation](https://open.kattis.com/problems/stirlingsapproximation) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Stirling's%20Approximation/stirlings_approximation.py) |
+| [Wizard of Odds](https://open.kattis.com/problems/wizardofodds) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Wizard%20Of%20Odds/wizard_of_odds.py) |
+| [Words for Numbers](https://open.kattis.com/problems/wordsfornumbers) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Words%20For%20Numbers/words_for_numbers.py) |
 | [Yoda](https://open.kattis.com/problems/yoda) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Yoda/yoda.py) |
-| [Zebras and Ocelots](https://open.kattis.com/problems/zebrasocelots) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Zebra%And%Ocelots/zebra_and_ocelots.py) |
+| [Zebras and Ocelots](https://open.kattis.com/problems/zebrasocelots) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Zebra%20And%20Ocelots/zebra_and_ocelots.py) |
