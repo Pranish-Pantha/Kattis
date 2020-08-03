@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class FroshWeek
+public class froshWeek
 {
 public static long answer;
 

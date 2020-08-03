@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class MaximumRent
+public class maximumRent
 {
     public static void main(String[] args)
     {

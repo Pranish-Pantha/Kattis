@@ -1,5 +1,5 @@
 import java.util.*;
-public class AddingWords 
+public class addingWords 
 {
 public static List<Integer> listNum;
 public static List<String> listStr;
