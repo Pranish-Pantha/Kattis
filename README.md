@@ -26,7 +26,7 @@ A collection of solutions to [Kattis](https://open.kattis.com/), a website that 
 | [Divide By 100](https://open.kattis.com/problems/divideby100) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Divide%By%100/divide_by_100.py) |
 | [Eight Queens](https://open.kattis.com/problems/8queens) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Eight%Queens/eight_queens.py) |
 | [Engineering English](https://open.kattis.com/problems/engineeringenglish) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Engineering%English/engineering_english.py) |
-| [Euler's Number](https://open.kattis.com/problems/eulersnumber) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Euler's%Number/eulers_number.py) |
+| [Euler's Number](https://open.kattis.com/problems/eulersnumber) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Euler's%20Number/eulers_number.py) |
 | [Frosh Week](https://open.kattis.com/problems/froshweek2) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Frosh%Week/froshWeek.java) |
 | [Hidden Password](https://open.kattis.com/problems/hidden) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Hidden%Password/hidden_password.py) |
 | [How Many Digits](https://open.kattis.com/problems/howmanydigits) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/How%Many%Digits/how_many_digits.py) |
