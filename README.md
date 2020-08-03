@@ -5,22 +5,22 @@ A collection of solutions to [Kattis](https://open.kattis.com/), a website that 
 | 40 Problems | Languages |
 | - | - |
 | [2048](https://open.kattis.com/problems/2048) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/2048/2048.py) |
-| [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/3D%Printed%Statues/3d_printed_statues.py)
-| [A List Game](https://open.kattis.com/problems/listgame) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/A%List%Game/a_list_game.py) |
-| [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/A%New%Alphabet/a_new_alphabet.py) |
-| [A Prize No One Can Win](https://open.kattis.com/problems/aprizenoonecanwin) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/A%Prize%No%One%Can%Win/a_prize_no_one_can_win.py) |
+| [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/3D%20Printed%20Statues/3d_printed_statues.py)
+| [A List Game](https://open.kattis.com/problems/listgame) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/A%20List%20Game/a_list_game.py) |
+| [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/A%20New%20Alphabet/a_new_alphabet.py) |
+| [A Prize No One Can Win](https://open.kattis.com/problems/aprizenoonecanwin) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/A%20Prize%20No%20One%20Can%20Win/a_prize_no_one_can_win.py) |
 | [ABC](https://open.kattis.com/problems/abc) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/ABC/abc.py) |
-| [ASCII Addition](https://open.kattis.com/problems/asciiaddition) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/ASCII%Addition/ascii_addition.py) |
-| [Add 'Em Up!](https://open.kattis.com/problems/addemup) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Add%'Em%Up!/add_em_up.py) |
-| [Adding Words](https://open.kattis.com/problems/addingwords) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Adding%Words/addingWords.java) |
+| [ASCII Addition](https://open.kattis.com/problems/asciiaddition) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/ASCII%20Addition/ascii_addition.py) |
+| [Add 'Em Up!](https://open.kattis.com/problems/addemup) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Add%20'Em%20Up!/add_em_up.py) |
+| [Adding Words](https://open.kattis.com/problems/addingwords) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Adding%20Words/addingWords.java) |
 | [Akcija](https://open.kattis.com/problems/akcija) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Akcija/akcija.py) |
-| [Anagram Counting](https://open.kattis.com/problems/anagramcounting) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Anagram%Counting/anagram_counting.py) |
-| [Bank Queue](https://open.kattis.com/problems/bank) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Bank%Queue/bank_queue.py) |
-| [Basic Programming 1](https://open.kattis.com/problems/basicprogramming1) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Basic%Programming%1/basic_programming_1.py) |
-| [Basic Programming 2](https://open.kattis.com/problems/basicprogramming2) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Basic%Programming%2/basic_programming_2.py) |
-| [Black Friday](https://open.kattis.com/problems/blackfriday) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Black%Friday/black_friday.py) |
-| [Block Game](https://open.kattis.com/problems/blockgame2) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Block%Game/block_game.py) |
-| [Calculating Dart Scores](https://open.kattis.com/problems/calculatingdartscores) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Calculating%Dart%Scores/calculatingDartScores.java) |
+| [Anagram Counting](https://open.kattis.com/problems/anagramcounting) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Anagram%20Counting/anagram_counting.py) |
+| [Bank Queue](https://open.kattis.com/problems/bank) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Bank%20Queue/bank_queue.py) |
+| [Basic Programming 1](https://open.kattis.com/problems/basicprogramming1) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Basic%20Programming%201/basic_programming_1.py) |
+| [Basic Programming 2](https://open.kattis.com/problems/basicprogramming2) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Basic%20Programming%202/basic_programming_2.py) |
+| [Black Friday](https://open.kattis.com/problems/blackfriday) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Black%20Friday/black_friday.py) |
+| [Block Game](https://open.kattis.com/problems/blockgame2) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Block%20Game/block_game.py) |
+| [Calculating Dart Scores](https://open.kattis.com/problems/calculatingdartscores) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Calculating%20Dart%20Scores/calculatingDartScores.java) |
 | [Cantor](https://open.kattis.com/problems/cantor) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Cantor/cantor.py) |
 | [Chess](https://open.kattis.com/problems/chess) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Chess/chess.py) |
 | [Divide By 100](https://open.kattis.com/problems/divideby100) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Divide%By%100/divide_by_100.py) |
