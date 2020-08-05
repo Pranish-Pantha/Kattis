@@ -41,6 +41,7 @@ A collection of solutions to [Kattis](https://open.kattis.com/), a website that 
 | [Riječi](https://open.kattis.com/problems/rijeci) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Rijeci/rijeci.py) |
 | [Sjecista](https://open.kattis.com/problems/sjecista) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Sjecista/Sjecista.java) |
 | [Stirling's Approximation](https://open.kattis.com/problems/stirlingsapproximation) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Stirling's%20Approximation/stirlings_approximation.py) |
+| [Summer Trip](https://open.kattis.com/problems/summertrip) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Summer%20Trip/summer_trip.py) |
 | [Thanos](https://open.kattis.com/problems/thanos) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Thanos/thanos.py) |
 | [Which Base is it Anyway?](https://open.kattis.com/problems/whichbase) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Which%20Base%20Is%20It%20Anyway/which_base_is_it_anyway.py) |
 | [Wizard of Odds](https://open.kattis.com/problems/wizardofodds) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Wizard%20Of%20Odds/wizard_of_odds.py) |
