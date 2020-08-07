@@ -18,6 +18,7 @@ A collection of solutions to [Kattis](https://open.kattis.com/), a website that 
 | [Bank Queue](https://open.kattis.com/problems/bank) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Bank%20Queue/bank_queue.py) |
 | [Basic Programming 1](https://open.kattis.com/problems/basicprogramming1) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Basic%20Programming%201/basic_programming_1.py) |
 | [Basic Programming 2](https://open.kattis.com/problems/basicprogramming2) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Basic%20Programming%202/basic_programming_2.py) |
+| [Bits](https://open.kattis.com/problems/bits) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Bits/bits.py) |
 | [Black Friday](https://open.kattis.com/problems/blackfriday) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Black%20Friday/black_friday.py) |
 | [Block Game](https://open.kattis.com/problems/blockgame2) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Block%20Game/block_game.py) |
 | [Calculating Dart Scores](https://open.kattis.com/problems/calculatingdartscores) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Calculating%20Dart%20Scores/calculatingDartScores.java) |
