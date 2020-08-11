@@ -4,6 +4,7 @@ A collection of solutions to [Kattis](https://open.kattis.com/), a website that 
 
 | 40+ Problems | Languages |
 | - | - |
+| [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/10%20Kinds%20of%20People/10_kinds_of_people.py) |
 | [2048](https://open.kattis.com/problems/2048) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/2048/2048.py) |
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/3D%20Printed%20Statues/3d_printed_statues.py)
 | [A List Game](https://open.kattis.com/problems/listgame) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/A%20List%20Game/a_list_game.py) |
