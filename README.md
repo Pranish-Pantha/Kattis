@@ -32,6 +32,7 @@ A collection of solutions to [Kattis](https://open.kattis.com/), a website that 
 | [Frosh Week](https://open.kattis.com/problems/froshweek2) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Frosh%20Week/froshWeek.java) |
 | [Hidden Password](https://open.kattis.com/problems/hidden) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Hidden%20Password/hidden_password.py) |
 | [How Many Digits](https://open.kattis.com/problems/howmanydigits) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/How%20Many%20Digits/how_many_digits.py) |
+| [I Hate The Number Nine](https://open.kattis.com/problems/nine) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/I%20Hate%20The%20Number%20Nine/i_hate_the_number_nine.py) |
 | [Industrial Spy](https://open.kattis.com/problems/industrialspy) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Industrial%20Spy/industrial_spy.py) |
 | [Inverse Factorial](https://open.kattis.com/problems/inversefactorial) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Inverse%20Factorial/inverse_factorial.py) |
 | [Maximum Rent](https://open.kattis.com/problems/maximumrent) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Maximum%20Rent/maximumRent.java) |
