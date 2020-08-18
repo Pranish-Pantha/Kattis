@@ -17,6 +17,7 @@ A collection of solutions to [Kattis](https://open.kattis.com/), a website that 
 | [Adding Words](https://open.kattis.com/problems/addingwords) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Adding%20Words/addingWords.java) |
 | [Akcija](https://open.kattis.com/problems/akcija) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Akcija/akcija.py) |
 | [Anagram Counting](https://open.kattis.com/problems/anagramcounting) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Anagram%20Counting/anagram_counting.py) |
+| [Another Candies](https://open.kattis.com/problems/anothercandies) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/ANother%20Candies/another_candies.py) |
 | [Bank Queue](https://open.kattis.com/problems/bank) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Bank%20Queue/bank_queue.py) |
 | [Basic Programming 1](https://open.kattis.com/problems/basicprogramming1) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Basic%20Programming%201/basic_programming_1.py) |
 | [Basic Programming 2](https://open.kattis.com/problems/basicprogramming2) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Basic%20Programming%202/basic_programming_2.py) |
