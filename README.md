@@ -11,6 +11,7 @@ A collection of solutions to [Kattis](https://open.kattis.com/), a website that 
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/A%20New%20Alphabet/a_new_alphabet.py) |
 | [A Prize No One Can Win](https://open.kattis.com/problems/aprizenoonecanwin) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/A%20Prize%20No%20One%20Can%20Win/a_prize_no_one_can_win.py) |
 | [ABC](https://open.kattis.com/problems/abc) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/ABC/abc.py) |
+| [Above Average](https://open.kattis.com/problems/aboveaverage) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Above%20Average/above_average.py) |
 | [ASCII Addition](https://open.kattis.com/problems/asciiaddition) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/ASCII%20Addition/ascii_addition.py) |
 | [Add 'Em Up!](https://open.kattis.com/problems/addemup) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Add%20'Em%20Up!/add_em_up.py) |
 | [Adding Words](https://open.kattis.com/problems/addingwords) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Adding%20Words/addingWords.java) |
