@@ -10,6 +10,7 @@ A collection of solutions to [Kattis](https://open.kattis.com/), a website that 
 | [A List Game](https://open.kattis.com/problems/listgame) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/A%20List%20Game/a_list_game.py) |
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/A%20New%20Alphabet/a_new_alphabet.py) |
 | [A Prize No One Can Win](https://open.kattis.com/problems/aprizenoonecanwin) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/A%20Prize%20No%20One%20Can%20Win/a_prize_no_one_can_win.py) |
+| [A1 Paper](https://open.kattis.com/problems/a1paper) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/A1%20Paper/A1Paper.java) |
 | [ABC](https://open.kattis.com/problems/abc) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/ABC/abc.py) |
 | [Above Average](https://open.kattis.com/problems/aboveaverage) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Above%20Average/above_average.py) |
 | [ASCII Addition](https://open.kattis.com/problems/asciiaddition) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/ASCII%20Addition/ascii_addition.py) |
