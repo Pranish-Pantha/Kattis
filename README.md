@@ -2,7 +2,7 @@
 A collection of solutions to [Kattis](https://open.kattis.com/), a website that offers fun programming problems
 ## Kattis Solutions
 
-| 40+ Problems | Languages |
+| 50+ Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/10%20Kinds%20of%20People/10_kinds_of_people.py) |
 | [2048](https://open.kattis.com/problems/2048) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/2048/2048.py) |
