@@ -8,6 +8,7 @@ A collection of solutions to [Kattis](https://open.kattis.com/), a website that 
 | [2048](https://open.kattis.com/problems/2048) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/2048/2048.py) |
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/3D%20Printed%20Statues/3d_printed_statues.py)
 | [A List Game](https://open.kattis.com/problems/listgame) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/A%20List%20Game/a_list_game.py) |
+| [A Multiplication Game](https://open.kattis.com/problems/amultiplicationgame) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/A%20Multiplication%20Game/a_multiplication_game.py) |
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/A%20New%20Alphabet/a_new_alphabet.py) |
 | [A Prize No One Can Win](https://open.kattis.com/problems/aprizenoonecanwin) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/A%20Prize%20No%20One%20Can%20Win/a_prize_no_one_can_win.py) |
 | [A1 Paper](https://open.kattis.com/problems/a1paper) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/A1%20Paper/A1Paper.java) |
