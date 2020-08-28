@@ -35,7 +35,8 @@ A collection of solutions to [Kattis](https://open.kattis.com/), a website that 
 | [Eight Queens](https://open.kattis.com/problems/8queens) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Eight%20Queens/eight_queens.py) |
 | [Engineering English](https://open.kattis.com/problems/engineeringenglish) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Engineering%20English/engineering_english.py) |
 | [Euler's Number](https://open.kattis.com/problems/eulersnumber) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Euler's%20Number/eulers_number.py) |
-| [Frosh Week](https://open.kattis.com/problems/froshweek2) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Frosh%20Week/froshWeek.java) |
+| [Frosh Week](https://open.kattis.com/problems/froshweek) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Frosh%20Week/froshWeek.java) |
+| [Frosh Week 2](https://open.kattis.com/problems/froshweek2) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Frosh%20Week%202/frosh_week_2.py) |
 | [Hidden Password](https://open.kattis.com/problems/hidden) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Hidden%20Password/hidden_password.py) |
 | [How Many Digits](https://open.kattis.com/problems/howmanydigits) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/How%20Many%20Digits/how_many_digits.py) |
 | [I Hate The Number Nine](https://open.kattis.com/problems/nine) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/I%20Hate%20The%20Number%20Nine/i_hate_the_number_nine.py) |
