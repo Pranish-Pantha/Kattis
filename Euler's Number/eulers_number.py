@@ -2,7 +2,7 @@ import math
 
 num = int(input())
 answer = 0
-if num < 17:
+if num < 17: # precision doesn't matter past this
     for i in range(0, num + 1):
         answer += 1/(math.factorial(i))
 else:
