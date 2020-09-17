@@ -21,6 +21,7 @@ A collection of solutions to [Kattis](https://open.kattis.com/), a website that 
 | [Akcija](https://open.kattis.com/problems/akcija) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Akcija/akcija.py) |
 | [Anagram Counting](https://open.kattis.com/problems/anagramcounting) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Anagram%20Counting/anagram_counting.py) |
 | [Another Candies](https://open.kattis.com/problems/anothercandies) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/ANother%20Candies/another_candies.py) |
+| [Baby Bites](https://open.kattis.com/problems/babybites) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Baby%20Bites/baby_bites.py)|
 | [Babylonian Numbers](https://open.kattis.com/problems/babylonian) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Babylonian%20Numbers/babylonian_numbers.py) |
 | [Bank Queue](https://open.kattis.com/problems/bank) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Bank%20Queue/bank_queue.py) |
 | [Basic Programming 1](https://open.kattis.com/problems/basicprogramming1) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Basic%20Programming%201/basic_programming_1.py) |
