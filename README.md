@@ -37,17 +37,21 @@ A collection of solutions to [Kattis](https://open.kattis.com/), a website that 
 | [Eight Queens](https://open.kattis.com/problems/8queens) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Eight%20Queens/eight_queens.py) |
 | [Engineering English](https://open.kattis.com/problems/engineeringenglish) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Engineering%20English/engineering_english.py) |
 | [Euler's Number](https://open.kattis.com/problems/eulersnumber) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Euler's%20Number/eulers_number.py) |
+| [Even Up Solitaire](https://open.kattis.com/problems/evenup) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Even%20Up%20Solitaire/even_up_solitaire.py) |
 | [Frosh Week](https://open.kattis.com/problems/froshweek) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Frosh%20Week/froshWeek.java) |
 | [Frosh Week 2](https://open.kattis.com/problems/froshweek2) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Frosh%20Week%202/frosh_week_2.py) |
 | [Hidden Password](https://open.kattis.com/problems/hidden) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Hidden%20Password/hidden_password.py) |
 | [How Many Digits](https://open.kattis.com/problems/howmanydigits) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/How%20Many%20Digits/how_many_digits.py) |
 | [I Hate The Number Nine](https://open.kattis.com/problems/nine) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/I%20Hate%20The%20Number%20Nine/i_hate_the_number_nine.py) |
+| [iBoard](https://open.kattis.com/problems/iboard) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/iBoard/iboard.py) |
 | [Industrial Spy](https://open.kattis.com/problems/industrialspy) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Industrial%20Spy/industrial_spy.py) |
 | [Inverse Factorial](https://open.kattis.com/problems/inversefactorial) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Inverse%20Factorial/inverse_factorial.py) |
 | [Maximum Rent](https://open.kattis.com/problems/maximumrent) | [Java](https://github.com/Pranish-Pantha/Kattis/blob/master/Maximum%20Rent/maximumRent.java) |
 | [Metaprogramming](https://open.kattis.com/problems/metaprogramming) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Metaprogramming/metaprogramming.py) |
+| [N-Puzzle](https://open.kattis.com/problems/npuzzle) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/N-Puzzle/n_puzzle.py) |
 | [Natrij](https://open.kattis.com/problems/natrij) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Natrij/natrij.py) |
 | [Numbers On A Tree](https://open.kattis.com/problems/numbertree) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Numbers%20On%20A%20Tree/numbers_on_a_tree.py) |
+| [Parket](https://open.kattis.com/problems/parket) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Parket/parket.py) |
 | [Proofs](https://open.kattis.com/problems/proofs) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Proofs/proofs.py) |
 | [Quite A Problem](https://open.kattis.com/problems/quiteaproblem) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Quite%20A%20Problem/quite_a_problem.py) |
 | [Riječi](https://open.kattis.com/problems/rijeci) | [Python](https://github.com/Pranish-Pantha/Kattis/blob/master/Rijeci/rijeci.py) |
